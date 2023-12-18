@@ -1,4 +1,4 @@
 numpy
 pandas
-
--e .
+scikit-learn
+#-e .
